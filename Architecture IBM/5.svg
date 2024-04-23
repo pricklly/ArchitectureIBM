@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg2325"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   sodipodi:docname="5.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview2327"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.50333193"
+     inkscape:cx="398.34548"
+     inkscape:cy="562.25322"
+     inkscape:window-width="1366"
+     inkscape:window-height="745"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2322" />
+  <g
+     inkscape:label="Слой 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       style="font-size:9.87777px;text-align:center;text-anchor:middle;fill:#ff0000;stroke-width:0.264583"
+       x="47.309738"
+       y="15.769911"
+       id="text2331"><tspan
+         sodipodi:role="line"
+         id="tspan2329"
+         style="stroke-width:0.264583"
+         x="47.309738"
+         y="15.769911">RISC -V</tspan></text>
+    <rect
+       style="fill:#ff00ff;stroke-width:0.264583"
+       id="rect2333"
+       width="75.169907"
+       height="42.053097"
+       x="86.734512"
+       y="11.038938" />
+    <text
+       xml:space="preserve"
+       style="font-size:9.87777px;text-align:center;text-anchor:middle;fill:#800080;stroke-width:0.264583"
+       x="111.44071"
+       y="27.860178"
+       id="text2598"><tspan
+         sodipodi:role="line"
+         id="tspan2596"
+         style="stroke-width:0.264583"
+         x="111.44071"
+         y="27.860178">What</tspan></text>
+    <rect
+       style="fill:#000080;stroke-width:0.264583"
+       id="rect2702"
+       width="113.01769"
+       height="8.9362831"
+       x="42.053097"
+       y="141.40355" />
+    <rect
+       style="fill:#000080;stroke-width:0.264583"
+       id="rect2704"
+       width="39.424778"
+       height="34.16814"
+       x="68.861946"
+       y="82.00354" />
+    <path
+       style="fill:#0000ff;stroke-width:0.264583"
+       d="M 68.861947,82.003539 C 69.913274,79.375221 85.683184,67.284954 85.683184,67.284954 l 31.014156,1.051329 -9.98761,14.718583 z"
+       id="path2706" />
+    <path
+       style="fill:#0000ff;stroke-width:0.264583"
+       d="m 116.17168,69.913274 0.52566,36.796456 -7.35929,7.3593 0.52567,-31.539827 z"
+       id="path2762" />
+    <text
+       xml:space="preserve"
+       style="font-size:9.87777px;text-align:center;text-anchor:middle;fill:#0000ff;stroke-width:0.264583"
+       x="82.529198"
+       y="167.68672"
+       id="text2818"><tspan
+         sodipodi:role="line"
+         id="tspan2816"
+         style="stroke-width:0.264583"
+         x="82.529198"
+         y="167.68672">Architectura</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:9.87777px;text-align:center;text-anchor:middle;fill:#0000ff;stroke-width:0.264583"
+       x="149.81416"
+       y="89.362831"
+       id="text2822"><tspan
+         sodipodi:role="line"
+         id="tspan2820"
+         style="stroke-width:0.264583"
+         x="149.81416"
+         y="89.362831">Program</tspan></text>
+    <path
+       style="fill:#ffff00;stroke-width:0.264583"
+       d="m 25.757522,53.092034 0.525663,45.732742 32.591151,-25.75752 z"
+       id="path2874" />
+    <text
+       xml:space="preserve"
+       style="font-size:9.87777px;text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.264583"
+       x="20.500885"
+       y="41.00177"
+       id="text2932"><tspan
+         sodipodi:role="line"
+         id="tspan2930"
+         style="stroke-width:0.264583;fill:#000000"
+         x="20.500885"
+         y="41.00177">Ligth</tspan></text>
+    <path
+       style="fill:#000000;stroke-width:0.264583"
+       d="m 107.2354,200.27787 -26.283188,12.09027 16.821237,18.39823 z"
+       id="path2934" />
+    <path
+       style="fill:#000000;stroke-width:0.264583"
+       d="m 103.55575,209.21416 c 10.51328,9.98761 25.75752,13.14159 33.11681,7.35929 7.3593,-5.7823 9.98761,-7.88496 9.98761,-7.88496 l -1.57699,22.07788 c 0,0 -11.5646,10.51327 -21.55221,4.73097 -9.98761,-5.7823 -24.180528,-12.61593 -24.180528,-12.61593 z"
+       id="path2936" />
+    <path
+       style="fill:#000000;stroke-width:0.264583"
+       d="m 149.28849,203.95752 -0.52566,31.01416 18.39823,-19.97522 z"
+       id="path2938" />
+    <path
+       style="fill:#000000;stroke-width:0.264583"
+       d="m 172.4177,149.28849 -15.76991,20.50089 25.75752,-1.57699 z"
+       id="path2940" />
+    <path
+       style="fill:#000000;stroke-width:0.264583"
+       d="m 166.10973,169.78938 v 23.1292 h 11.5646 l -1.57699,-24.70619 z"
+       id="path2942" />
+    <path
+       style="fill:#000000;stroke-width:0.264583"
+       d="m 164.53274,195.5469 14.71858,-0.52566 -7.88495,16.29557 z"
+       id="path2944" />
+    <text
+       xml:space="preserve"
+       style="font-size:9.87777px;text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.264583"
+       x="44.15575"
+       y="261.25485"
+       id="text2948"><tspan
+         sodipodi:role="line"
+         id="tspan2946"
+         style="stroke-width:0.264583"
+         x="44.15575"
+         y="261.25485">VICTORY</tspan></text>
+  </g>
+</svg>

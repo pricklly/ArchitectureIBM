@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg1760"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   sodipodi:docname="4.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1762"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.50333193"
+     inkscape:cx="398.34548"
+     inkscape:cy="721.19406"
+     inkscape:window-width="1366"
+     inkscape:window-height="745"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1757" />
+  <g
+     inkscape:label="Слой 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:#a02c2c;stroke-width:0.264583"
+       id="path1791"
+       sodipodi:type="arc"
+       sodipodi:cx="88.837166"
+       sodipodi:cy="90.676987"
+       sodipodi:rx="21.552214"
+       sodipodi:ry="18.661062"
+       sodipodi:start="0"
+       sodipodi:end="6.2824551"
+       sodipodi:arc-type="slice"
+       d="M 110.38938,90.676987 A 21.552214,18.661062 0 0 1 88.8411,109.33805 21.552214,18.661062 0 0 1 67.284954,90.6838 21.552214,18.661062 0 0 1 88.825363,72.015927 21.552214,18.661062 0 0 1 110.38937,90.66336 l -21.552204,0.01363 z" />
+    <rect
+       style="fill:#000080;stroke-width:0.264583"
+       id="rect1795"
+       width="11.038938"
+       height="28.385838"
+       x="83.054871"
+       y="60.451328" />
+    <rect
+       style="fill:#000080;stroke-width:0.264583"
+       id="rect1797"
+       width="35.745132"
+       height="11.564602"
+       x="70.9646"
+       y="68.336281" />
+    <rect
+       style="fill:#000080;stroke-width:0.264583"
+       id="rect1799"
+       width="34.16814"
+       height="13.667256"
+       x="68.336281"
+       y="98.824783" />
+    <text
+       xml:space="preserve"
+       style="font-size:9.87777px;text-align:center;text-anchor:middle;fill:#000080;stroke-width:0.264583"
+       x="113.54336"
+       y="30.488495"
+       id="text1855"><tspan
+         sodipodi:role="line"
+         id="tspan1853"
+         style="stroke-width:0.264583"
+         x="113.54336"
+         y="30.488495">Exempl Alilueva</tspan></text>
+    <rect
+       style="fill:#000080;stroke-width:0.264583"
+       id="rect1857"
+       width="94.619469"
+       height="8.4106197"
+       x="44.681416"
+       y="195.54689" />
+    <path
+       style="fill:#ffff00;stroke-width:0.264583"
+       id="path1911"
+       sodipodi:type="arc"
+       sodipodi:cx="158.75043"
+       sodipodi:cy="138.51239"
+       sodipodi:rx="20.500885"
+       sodipodi:ry="17.609735"
+       sodipodi:start="0"
+       sodipodi:end="6.2824551"
+       sodipodi:arc-type="slice"
+       d="m 179.25131,138.51239 a 20.500885,17.609735 0 0 1 -20.49714,17.60974 20.500885,17.609735 0 0 1 -20.50463,-17.60331 20.500885,17.609735 0 0 1 20.48966,-17.61616 20.500885,17.609735 0 0 1 20.51211,17.59687 l -20.50088,0.0129 z" />
+    <text
+       xml:space="preserve"
+       style="font-size:9.87777px;text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.264583"
+       x="84.631859"
+       y="157.6991"
+       id="text2184"><tspan
+         sodipodi:role="line"
+         id="tspan2182"
+         style="stroke-width:0.264583"
+         x="84.631859"
+         y="157.6991">Ligth</tspan></text>
+    <rect
+       style="fill:#ff0000;stroke-width:0.264583"
+       id="rect2186"
+       width="42.053097"
+       height="18.923893"
+       x="96.722122"
+       y="248.11328" />
+    <text
+       xml:space="preserve"
+       style="font-size:9.87777px;text-align:center;text-anchor:middle;fill:#ff0000;stroke-width:0.264583"
+       x="119.85133"
+       y="226.03539"
+       id="text2294"><tspan
+         sodipodi:role="line"
+         id="tspan2292"
+         style="stroke-width:0.264583"
+         x="119.85133"
+         y="226.03539">Zener</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:9.87777px;text-align:center;text-anchor:middle;fill:#ff0000;stroke-width:0.264583"
+       x="37.322124"
+       y="220.77875"
+       id="text2298"><tspan
+         sodipodi:role="line"
+         id="tspan2296"
+         style="stroke-width:0.264583"
+         x="37.322124"
+         y="220.77875">AgryLigth</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.264583"
+         x="37.322124"
+         y="233.12596"
+         id="tspan2300">not eating</tspan></text>
+  </g>
+</svg>
